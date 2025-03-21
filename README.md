@@ -51,10 +51,11 @@ plt.show()
 ```
 
  ## OUTPUT WAVEFORMS:
+ 
+ ![image](https://github.com/user-attachments/assets/b2d89a89-7651-4a21-a180-e9cda8cfc395)
+ ![image](https://github.com/user-attachments/assets/203e0379-fd3d-4162-ae7d-c107be1a0eab)
+ ![image](https://github.com/user-attachments/assets/bd1dc349-e618-4e5c-a629-7838dcf3c25c)
 
-![Image](https://github.com/user-attachments/assets/560f416a-7a40-4696-83c6-72e544b007a9)
-![Image](https://github.com/user-attachments/assets/9e04bca2-eab2-4542-8fc5-bb9179a85d9e)
-![Image](https://github.com/user-attachments/assets/1fd4bdbd-6dbd-4134-b0a8-e46fab91a86d)
 
 ## RESULT:
 
