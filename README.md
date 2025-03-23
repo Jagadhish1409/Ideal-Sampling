@@ -8,7 +8,7 @@ To demonstrate ideal sampling of a continuous signal using Scilab, ensuring accu
 
 ## COMPONENTS REQUIRED:
 
-Scilab software.
+python IDE with Numpy and Scipy
 
 ## PROGRAM:
 ```python
