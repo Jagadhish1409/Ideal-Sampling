@@ -53,7 +53,9 @@ plt.show()
  ## OUTPUT WAVEFORMS:
  
  ![image](https://github.com/user-attachments/assets/b2d89a89-7651-4a21-a180-e9cda8cfc395)
+ 
  ![image](https://github.com/user-attachments/assets/203e0379-fd3d-4162-ae7d-c107be1a0eab)
+ 
  ![image](https://github.com/user-attachments/assets/bd1dc349-e618-4e5c-a629-7838dcf3c25c)
 
 
